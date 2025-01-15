@@ -41,7 +41,7 @@ The following tools and libraries were used for the EDA:
   - `pandas` for data manipulation and analysis.
   - `matplotlib` and `seaborn` for data visualization.
   - `numpy` for numerical computations.
-- **Jupyter Notebook** for interactive analysis and visualization.
+
 
 ---
 
